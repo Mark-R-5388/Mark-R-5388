@@ -1,0 +1,7 @@
+- Hi, my name is Mark
+- I am interested in front end web development but I also enjoy fitness and drawing
+- Currently, I am learning React JS and anything related such as Next JS
+- I am looking to collaborate on anything but I am most interested in any website development
+- You can reach me at my website https://markwebdev.com or head over to my twitter @mark_web_dev
+- Looking forward to collaborate with you!
+- Have a great and positive day!
